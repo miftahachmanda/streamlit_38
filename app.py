@@ -311,4 +311,5 @@ if submitted:
         st.metric("Estimasi Biaya Retensi", f"Rp {int(pred_prob * retention_cost_input):,}")
     else:
         st.success(f"Pelanggan **Aman / Tidak Churn** dengan probabilitas {pred_prob*100:.2f}%")
-        st.metric("Estimasi Biaya Retensi", "0")
+        st.metric("Estimasi Biaya Retensi", f"Rp {retention_cost_input:,}")
+
