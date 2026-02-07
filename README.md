@@ -1,6 +1,6 @@
 # streamlit_38
 
-Hi, cek link stream lit berikut https://portomiftah.streamlit.app/
+Hi, Bisa cek streamlit ku di link berikut yaa -->  https://portomiftah.streamlit.app/
 
 # 📊 Telco Customer Churn Prediction
 
